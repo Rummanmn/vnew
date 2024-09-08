@@ -7,5 +7,5 @@ public class sameclas {
   //i have done 4
     //rumloval
     //iamdoinggood
-    //rumlocal2
+    //rumlocal
 }
